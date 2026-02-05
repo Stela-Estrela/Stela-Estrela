@@ -3,12 +3,8 @@
 **`Desenvolvera Web e Professora de ADS`**
 
 💻 Bacharelado em Ciência da Computação
-
-🌎 Apaixonada por desenvolvimento web 
-
-📚 Atualmente explorando HTML, CSS e aprofundando meus conhecimentos em Python 👩‍
-
 👩‍🏫 Experiência com ensino para alunos do ensino médio da rede estadual do Piauí 
+👩‍🏫 Suporte GrupoNew
 
 ---
 
