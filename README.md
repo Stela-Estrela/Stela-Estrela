@@ -3,7 +3,9 @@
 **`Desenvolvera Web e Professora de ADS`**
 
 💻 Bacharelado em Ciência da Computação
+
 👩‍🏫 Experiência com ensino para alunos do ensino médio da rede estadual do Piauí 
+
 👩‍🏫 Suporte GrupoNew
 
 ---
